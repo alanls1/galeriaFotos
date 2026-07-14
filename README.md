@@ -17,12 +17,12 @@ O Sistema de Galeria de fotos é uma aplicação web desenvolvida com React, Typ
 
 1. Clone este repositório em sua máquina local.
    ```bash
-   git clone https://github.com/alanls1/galeriaFotos.git
+   git clone https://github.com/alanls1/galeria-fotos.git
    ```
 
 2. Instale as dependências do projeto.
    ```bash
-   cd galeriaFotos
+   cd galeria-fotos
    npm install
    ```
 
